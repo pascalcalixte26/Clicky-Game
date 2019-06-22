@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ15r96e67PHbkfNHEKhpd6n5cVj0LyQoCiy08X86mY7kkYFEb2Aw",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQzq-jSlRlbumdTFgvgus2CXTjLeSVZ2hS66zI3F14Cy3OXl2w",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsBVsWLR4swu2-CgaCbGywRNLcsbb3NAv2zb9Jr6gxSUu-AeaFvw",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIuZ6gedDyrxey1ZLRlZeNvw8E8rdW-WY_hhlvNQ60bZ5Vr2R9",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZN1pwFLOM3lmIDSFhtm1YT9TN1Qxj_Q2CtU0qjs-t-W1aTmjlA",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgJ_2Zm-Vhbn4_36UFHgcKhAb0xMp6Izd7JC4cEwWliXekn63G4A",
+    "occupation": "Student",
+    "location": "Bluffington"
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVOzorPTmjPA8OEZmbjrZLrYalZ0ZQGpnEYc-BGQCYHPC7Cisn",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAIufIWZIl-PjQPvtkdwY8qoqWN6yT9W1PjQQHEUhm_5iViVLm",
+    "occupation": "Ladies Man",
+    "location": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "Tommy Pickles",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYl9W8lVelVpnyOAbk5FLFX4vmS_-D9M9nVw8ozLUCgUJ5p3UKw",
+    "occupation": "Adventurer",
+    "location": "California"
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg8GxCkCf86HHtVaTHTiPmkTtmjOhrvfm5_Nb_l-pKp-2IBP-HxQ",
+    "occupation": "Cashier",
+    "location": "O-Town, California"
+  },
+  {
+    "id": 11,
+    "name": "Captain Planet",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuMZRufDvPtwZD1yy73XT20RuuEMZr3ck7VRD6bY0MlvVON2HlHg",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 12,
+    "name": "Ickis",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZ4sPnDk2tuC2qCsXLfIZTsoWV7v8x-mL-Aun5VoNhIpltUIA",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump"
+  }
+
+  
+]
