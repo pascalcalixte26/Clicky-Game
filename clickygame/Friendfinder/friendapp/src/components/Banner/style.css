@@ -1,0 +1,21 @@
+.banner {
+  width: 80%;
+  height: 5pc;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  background-color: rgb(66, 0, 128);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 50px;
+  padding-top: 10px;
+  position: fixed;
+  top: 0;
+  width: 100%  
+}
+
+.banner .rest {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+}
+

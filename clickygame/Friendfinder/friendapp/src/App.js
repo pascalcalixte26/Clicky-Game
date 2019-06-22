@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
+import Banner from "./components/Banner";
 import friends from "./friends.json";
 
 class App extends Component {
@@ -21,13 +22,15 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
+        
        
-        <Title>
+        <Title>     
 
-          <p class="banner"><span class="clicky"><strong>Clicky Game!           </strong></span><span class="image">Click an image to begin!                   </span><span class="score">Score: 0 | Top Score: 0</span></p>
+          <Banner>Clicky Game&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="rest">Click an image to begin!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Score: 0 | Top Score: 0</span></Banner>     
           
           <p>Clicky Game!</p>
 
+          <p class="click">Click on an image to earn points, but don't click on any more than once!</p>
           
         </Title>
         

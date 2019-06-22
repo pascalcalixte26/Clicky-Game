@@ -6,15 +6,11 @@
   color: white;
   background-color: rgb(75, 71, 71);
   margin-bottom: 50px;
+  padding-top: 100px;
 }
 
-.banner {
-  background-color: rgb(66, 0, 128);
+.title .click {
   font-size: 2rem;
-  height: 10pc;
-  text-align: center;  
 }
 
-.clicky {
-  padding-right: 8px;
-}
+
