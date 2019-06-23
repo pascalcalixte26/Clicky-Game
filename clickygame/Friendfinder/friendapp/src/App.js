@@ -10,7 +10,7 @@ class App extends Component {
   state = {
     friends,
     count: 0    
-  };
+  };  
 
   
   removeFriend = id => {
@@ -19,14 +19,18 @@ class App extends Component {
       return 0.5 - Math.random()
     }) ;
 
-   handleIncrement = () => {
-      // We always use the setState method to update a component's state
-      this.setState({ count: this.state.count + 1 });
-    };
+   
 
     // Set this.state.friends equal to the new friends array
     this.setState({ friends });
   };
+
+  handleIncrement = () => {
+    // We always use the setState method to update a component's state
+    this.setState({ count: this.state.count + 1 });
+    
+  };
+ 
 
   // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
